@@ -7,6 +7,50 @@
 .metier{
     font-size: 30px;
     font-weight: bold;
+    text-align: center;   
+}
+
+.adresse{
+    text-align: right;
+}
+
+.detail{
+    font-size: 25px;
+    font-weight: bold;
     text-align: center;
-    line-height: -1.5;
+    line-height: 1.5;
+}
+
+.experiences{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.formation{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.competences{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.infosup{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.langues{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.gris{
+    background: #F0F8FF;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
 }
