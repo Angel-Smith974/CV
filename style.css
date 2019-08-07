@@ -11,7 +11,10 @@
 }
 
 .adresse{
-    text-align: right;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
 
 .detail{
@@ -55,3 +58,6 @@
     flex-direction: row;
 }
 
+.btn{
+    text-align: center;
+}
