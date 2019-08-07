@@ -10,11 +10,17 @@
     text-align: center;   
 }
 
+.portrait{
+    border: 20px solid white;
+}
+
 .adresse{
     align-items: center;
     display: flex;
     flex-direction: row;
     justify-content: center;
+    text-align: right;
+    
 }
 
 .detail{
@@ -59,5 +65,29 @@
 }
 
 .btn{
-    text-align: center;
+    align-items: center;
+}
+
+/**/
+.contient{
+        
+    
+    
+}
+
+.un{
+    border: 5px solid blue;
+    display: inline-block;
+    width: 33%;
+}
+
+.deux{
+    border: 5px solid red;
+    display: inline-block;
+    width: 33%;
+}
+.trois{
+    border: 5px solid green;
+    display: inline-block;
+    width: 33%;
 }
