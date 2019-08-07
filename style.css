@@ -1,0 +1,12 @@
+.nom{
+    font-size: 70px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.metier{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: -1.5;
+}
